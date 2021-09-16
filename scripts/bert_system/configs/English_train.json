@@ -1,0 +1,14 @@
+{
+    "data_path": "normalized_English_Train.tsv",
+    "model_type": "BaseBertModel",
+    "mode": "binary",
+    "data_type": "twitter",
+    "load_model": false,
+    "model_path": "english",
+    "optimizer": "Adam",
+    "batch_size": 2,
+    "learning_rate": 1e-05,
+    "epochs": 10,
+    "bert_model": "bert-base-uncased",
+    "weight_method": "scikit"
+}
