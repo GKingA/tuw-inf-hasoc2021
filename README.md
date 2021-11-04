@@ -65,3 +65,5 @@ If the expected file doesn't contain labels, add the --test argument
 to the above command.
 
 ## Rule system
+
+Go under _scripts/rule_system_ for more, or visit [POTATO](https://github.com/adaamko/POTATO)
